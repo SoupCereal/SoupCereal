@@ -1,4 +1,4 @@
-## Hi there 👋
+## Is cereal a soup? 
 
 <!--
 **SoupCereal/SoupCereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
